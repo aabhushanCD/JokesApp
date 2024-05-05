@@ -1,0 +1,43 @@
+.jokelogo {
+  text-align: center;
+  width: 100%;
+  height: 89px;
+  background-color: #654c4c;
+  margin-top: -63px;
+}
+.logo {
+  width: 300px;
+  height: 64px;
+}
+.logo > a > p {
+  font-size: 77px;
+  color: white;
+  background-color: #654c4c;
+}
+* {
+  background-color: rgb(0, 0, 0);
+  padding: 0px;
+}
+:root {
+  font-family: "Island Moments", cursive;
+}
+container {
+  width: 100%;
+  display: flex;
+  height: auto;
+
+  justify-content: space-between;
+}
+.child1 {
+  width: 25%;
+
+  background-color: #3c2121;
+}
+.child2 {
+  width: 50%;
+}
+.child3 {
+  width: 25%;
+
+  background-color: #3c2121;
+}
