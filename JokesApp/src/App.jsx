@@ -7,7 +7,7 @@ function App() {
       <div className="jokelogo">
         <span className="logo">
           <a href="#" style={{ textDecoration: "none" }}>
-            <p>JokesCenter</p>
+            <span> JokesCenter</span>
           </a>
         </span>
       </div>
