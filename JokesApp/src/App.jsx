@@ -21,6 +21,9 @@ function App() {
         </div>
         <div className="child3"></div>
       </container>
+      <footer>
+        <p>copyright &copy 2024</p>
+      </footer>
     </>
   );
 }

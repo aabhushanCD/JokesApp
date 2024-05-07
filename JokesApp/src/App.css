@@ -5,6 +5,11 @@
   background-color: #654c4c;
   
 }
+footer{
+  color:aliceblue;
+  font-size:50px;
+  text-align:center;
+}
 .logo {
   width: 300px;
   height: 64px;
